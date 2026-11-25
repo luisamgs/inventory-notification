@@ -6,7 +6,7 @@ window.BK_CONFIG = ["localhost", "127.0.0.1"].includes(location.hostname)
       TEAM_EMAIL: "team@buchkantine.local",
     }
   : {
-      SUPABASE_URL: "https://PROJECT_REF.supabase.co",
-      SUPABASE_KEY: "PUBLISHABLE_KEY",
-      TEAM_EMAIL: "TEAM_EMAIL",
+      SUPABASE_URL: "https://dczclgckgbccmaarykru.supabase.co",
+      SUPABASE_KEY: "sb_publishable_YRu5gyS9hf1TMhGfN3zDtw_dewefxHS",
+      TEAM_EMAIL: "luisa.gabatel@buchkantine.de",
     };
