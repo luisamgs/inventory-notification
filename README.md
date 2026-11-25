@@ -16,7 +16,7 @@ Phone-first stock counting for the Buchkantine kitchen: plain HTML/CSS/JS on Git
 4. **Gmail**: a dedicated Gmail account with 2-step verification on → Google Account → Security → App passwords → create one.
 5. **Supabase → Account → Access Tokens**: create a token for GitHub.
 6. **GitHub repo → Settings → Secrets and variables → Actions**, add:
-   `SUPABASE_ACCESS_TOKEN`, `SUPABASE_DB_PASSWORD`, `SUPABASE_PROJECT_ID` (the project ref, e.g. `abcd1234…`),
+   `SUPABASE_ACCESS_TOKEN`, `SUPABASE_PROJECT_ID` (the project ref, e.g. `abcd1234…`),
    `GMAIL_USER` (the Gmail address), `GMAIL_APP_PASSWORD`.
 7. **GitHub repo → Settings → Pages**: deploy from branch `main`, folder `/ (root)`.
 
